@@ -1,0 +1,77 @@
+{
+	"aircs.arr": {
+		"sounds": [
+			"aircs/arr"
+		]
+	},
+    "aircs.nxt": {
+		"sounds": [
+			"aircs/nxt"
+		]
+	},
+	"aircs.cnt": {
+		"sounds": [
+			"aircs/cnt"
+		]
+	},
+	"aircs.wc": {
+		"sounds": [
+			"aircs/wc"
+		]
+	},
+	"aircs.wca": {
+		"sounds": [
+			"aircs/wca"
+		]
+	},
+	"aircs.lgl": {
+		"sounds": [
+			"aircs/lgl"
+		]
+	},
+	"aircs.bbt": {
+		"sounds": [
+			"aircs/bbt"
+		]
+	},
+	"aircs.ali": {
+		"sounds": [
+			"aircs/ali"
+		]
+	},
+	"aircs.bco": {
+		"sounds": [
+			"aircs/bco"
+		]
+	},
+	"aircs.bil": {
+		"sounds": [
+			"aircs/bil"
+		]
+	},
+	"aircs.lon": {
+		"sounds": [
+			"aircs/lon"
+		]
+	},
+	"aircs.rmufo": {
+		"sounds": [
+			"aircs/rmufo"
+		]
+	},
+	"aircs.vic": {
+		"sounds": [
+			"aircs/vic"
+		]
+	},
+	"aircs.ack": {
+		"sounds": [
+			"aircs/ack"
+		]
+	},
+     "aircs.trm": {
+		"sounds": [
+			"aircs/trm"
+		]
+	}
+}
